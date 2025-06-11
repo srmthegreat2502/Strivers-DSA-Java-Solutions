@@ -1,7 +1,3 @@
-package Patterns;
-
-import java.util.Scanner;
-
 /*
 n = 5
      *
@@ -14,6 +10,9 @@ n = 5
     ***
      *
  */
+package Patterns;
+import java.util.Scanner;
+
 public class Pattern9
 {
     public static void main(String[] args)
@@ -57,6 +56,6 @@ public class Pattern9
             spacecount+=1;
             System.out.println();
         }
-
+        /* The  pattern can also be solved by using the .repeat() function that is used in Patterns.Pattern7. However, it is not available in the older versions of Java */
     }
 }

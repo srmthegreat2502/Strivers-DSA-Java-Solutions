@@ -1,7 +1,3 @@
-package Patterns;
-
-import java.util.Scanner;
-
 /*
 n=3
 *
@@ -11,6 +7,9 @@ n=3
 *
 
  */
+package Patterns;
+import java.util.Scanner;
+
 public class Pattern10 {
     public static void main(String[] args)
     {

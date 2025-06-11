@@ -1,7 +1,3 @@
-package Patterns;
-
-import java.util.Scanner;
-
 /*
 n = 5
 1 2 3 4 5
@@ -10,6 +6,9 @@ n = 5
 1 2
 1
  */
+package Patterns;
+import java.util.Scanner;
+
 public class Pattern6
 {
     public static void main(String[] args)

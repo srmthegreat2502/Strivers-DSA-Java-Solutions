@@ -1,7 +1,3 @@
-package Patterns;
-
-import java.util.Scanner;
-
 /*
 n=5
 *********
@@ -10,6 +6,9 @@ n=5
    ***
     *
  */
+package Patterns;
+import java.util.Scanner;
+
 public class Pattern8 {
     public static void main(String[] args)
     {
@@ -35,5 +34,5 @@ public class Pattern8 {
             System.out.println();
         }
     }
-/* The following pattern can also be solved by using the .repeat() function that is used in Patterns.Pattern7. However, it is not available in the older versions of Java */
+/* The  pattern can also be solved by using the .repeat() function that is used in Patterns.Pattern7. However, it is not available in the older versions of Java */
 }

@@ -1,6 +1,3 @@
-package Patterns;
-
-import java.util.Scanner;
 /*
 Example:
 Input: ‘N’ = 3
@@ -10,6 +7,9 @@ Output:
 1 2
 1 2 3
  */
+package Patterns;
+import java.util.Scanner;
+
 public class Pattern3 {
     public static void main(String[] args)
     {
