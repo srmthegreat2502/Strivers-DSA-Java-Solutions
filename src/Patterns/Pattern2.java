@@ -9,7 +9,8 @@ n = 5
 package Patterns;
 import java.util.Scanner;
 
-public class Pattern2 {
+public class Pattern2
+{
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
