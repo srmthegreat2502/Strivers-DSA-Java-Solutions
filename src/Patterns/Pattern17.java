@@ -1,5 +1,11 @@
+/*
+n=4
+   A
+  ABA
+ ABCBA
+ABCDCBA
+ */
 package Patterns;
-
 import java.util.Scanner;
 
 public class Pattern17 {
